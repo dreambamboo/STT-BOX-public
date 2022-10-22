@@ -1,3 +1,3 @@
-# GIST-public
+# STT-BOX
 
-The codes and model will be available as soon as the corresponding article is accepted.
+The system and codes will be available as soon as the corresponding article is accepted.
