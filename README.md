@@ -33,7 +33,7 @@ After decompressing the five compressed packages in the folder "model", you will
 Run the file `inference_STT-BOX.py`. If a specific GPU is selected (such as No. 3), run `CUDA_VISIBLE_DEVICES=3 python inference_STT-BOX.py`. Finally, you will obtain the heatmap, e.g., "`your_file_name_heatmap.png`". Note that the codes are just examples to obtain visualization, and different outputs will be gained when the parameters are changed.
 ## Citation
 Please cite:
-Zhu et al. A deep learning-based system trained for gastrointestinal stromal tumor screening can identify multiple types of soft tissue tumors, in *The American Journal of Pathology*, 2023.
+Zhu et al. A deep learning-based system trained for gastrointestinal stromal tumor screening can identify multiple types of soft tissue tumors, in *The American Journal of Pathology*, 2023. (in press)
 
 
 
