@@ -21,7 +21,7 @@ new_map = LinearSegmentedColormap.from_list('new_map', colors, N=256)
 
 class Option(object):
     def __init__(self):
-        self.img_path = '/disk2/mz_data/TCGA_GIST/543e1c89-a892-4ee8-8716-9c94136036a9/TCGA-IS-A3K6-01Z-00-DX1.C3EACA3B-0E4B-4019-BE7C-BD18373EE4F2.svs' # the image path waiting for inference
+        self.img_path = './your_image_name.svs' # the image path waiting for inference
         self.model_dir = './model/' # the dir path you save the pre-trained model "STT_BOX_v1.pth"   
         self.save_TCGA_path = './'# the dir path for saving outputs
         self.seed = 1236
