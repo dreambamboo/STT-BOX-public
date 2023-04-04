@@ -24,7 +24,7 @@ Please prepare the Whole-Slide Image (WSI) for inference. The file format of the
 # inference_STT-BOX.py
 class Option(object):
     def __init__(self):
-        self.img_path = './your_file_name.svs' # example of the image path 
+        self.img_path = './your_image_name.svs' # example of the image path 
 ```
 #### 2) Pre-procss the trained model
 After decompressing the five compressed packages in the folder "model", you will receive a file named "STT_BOX_v1.pth". Please place this file in "`./model/STT_BOX_v1.pth`".
