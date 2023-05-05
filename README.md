@@ -37,14 +37,13 @@ Please cite:
 Meng Z, Wang G, Su F, et al. A deep learning-based system trained for gastrointestinal stromal tumor screening can identify multiple types of soft tissue tumors[J]. The American Journal of Pathology, 2023.
 
 
-···
-@article{meng2023deep,
+@article{meng2023deep,    
   title={A deep learning-based system trained for gastrointestinal stromal tumor screening can identify multiple types of soft tissue tumors},
-  author={Meng, Zhu and Wang, Guangxi and Su, Fei and Liu, Yan and Wang, Yuxiang and Yang, Jing and Luo, Jianyuan and Cao, Fang and Zhen, Panpan and Huang, Binhua and others},
-  journal={The American Journal of Pathology},
-  year={2023},
-  publisher={Elsevier}
+  author={Meng, Zhu and Wang, Guangxi and Su, Fei and Liu, Yan and Wang, Yuxiang and Yang, Jing and Luo, Jianyuan and Cao, Fang and Zhen, Panpan and Huang, Binhua and others},    
+  journal={The American Journal of Pathology},    
+  year={2023},    
+  publisher={Elsevier}    
 }
-···
+
 
 
